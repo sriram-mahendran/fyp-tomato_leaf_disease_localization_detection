@@ -11,11 +11,17 @@ This project uses the **Tomato Leaf Dataset** provided by Imtiaz et al. (2025).
 🔗 Dataset Link: https://data.mendeley.com/datasets/bpfd9cns5g/2  
 
 **Citation:**
-
 Imtiaz, Ahmed; Islam Swapnil, Fahad Bin; Masud, Syed Rayhan; Karmaker, Debajoyti (2025),  
 “Tomato Leaf Dataset: A dataset for multiclass disease detection and classification”,  
 *Mendeley Data, V2*  
 DOI: https://doi.org/10.17632/bpfd9cns5g.2  
+
+**License:**  
+This dataset is licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**  
+https://creativecommons.org/licenses/by/4.0/
+
+**Modifications:**  
+The original dataset annotations (YOLO format) were converted to Faster R-CNN compatible format for this project. The original train/validation/test split provided by the dataset authors was preserved.
 
 **Usage Note:**  
 This dataset is used strictly for academic and research purposes. All credits belong to the original authors.
