@@ -43,6 +43,13 @@ This project implements a **two-stage hybrid deep learning pipeline** for diseas
 
 ---
 
+
+## Architecture
+<p align="center">
+  <img src="assets/i1.png" width="700"/>
+</p>
+
+
 ## 🔄 Data Preparation
 
 - The dataset authors originally provided annotations in **YOLO format**
@@ -60,3 +67,26 @@ This project implements a **two-stage hybrid deep learning pipeline** for diseas
 5. Final disease classification is generated  
 
 ---
+
+
+##Results
+
+# Confusion Matrix
+<p align="center">
+  <img src="assets/i2.png" width="700"/>
+</p>
+
+# Precision, Recall, F1 Score Bar charts
+<p align="center">
+  <img src="assets/i3.png" width="700"/>
+</p>
+
+
+# Pipeline Prediction Result
+<p align="center">
+  <img src="assets/i4.png" width="700"/>
+</p>
+
+
+
+
